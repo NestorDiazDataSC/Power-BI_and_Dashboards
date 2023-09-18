@@ -1,1 +1,2 @@
-# Power-BI_and_Dashboards
+# Power-BI and Dashboards
+Este repositorio contiene archivos de Power BI y diversos DashBoards como practicas
